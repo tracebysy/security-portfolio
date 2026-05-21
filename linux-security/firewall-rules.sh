@@ -1,1 +1,0 @@
-# firewall-rules.sh
