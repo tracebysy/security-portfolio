@@ -1,2 +1,18 @@
 # security-portfolio
-정보보안 엔지니어 포트폴리오
+
+정보보안 및 네트워크 실습 프로젝트 모음입니다.
+
+
+## Skills
+- Network: Cisco, GNS3
+- System: Linux, Windows Server
+- Security: Firewall, Hardening
+- DB: MySQL
+
+## Projects
+- GNS3 Network Security Lab
+- Linux Server Hardening
+- SQL Practice
+
+## Contact
+Email: xxx@xxx.com
