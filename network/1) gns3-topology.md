@@ -5,4 +5,3 @@ gns3로 만든 네트워크 구조 이미지
 ![test](network/173013.png)
 
 <img src="../images/screening.png"/>
-images/screening.png
